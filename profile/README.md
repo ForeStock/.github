@@ -1,6 +1,6 @@
 ## US-Stock Tracker 👋
 
-### 미국 주식을 검색하고 예측하는 웹 페이지입니다. 
+ 미국 주식을 검색하고 예측하는 웹 페이지입니다. 
 
 ➡️[Visit](https://us-stock-tracker.vercel.app/)
 <!--
